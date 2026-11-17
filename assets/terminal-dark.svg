@@ -7,7 +7,7 @@
 <circle cx="24" cy="20" r="6" fill="#f85149"/><circle cx="44" cy="20" r="6" fill="#ffb000"/><circle cx="64" cy="20" r="6" fill="#3fb950"/>
 <text x="450" y="25" text-anchor="middle" class="t">ethan@ug: ~  (zsh)</text>
 <text x="36" y="78" class="c l" style="animation-delay:0.3s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>whoami</text>
-<text x="36" y="104" class="o l" style="animation-delay:0.9s" ><tspan class="b">Ethan Nartey</tspan>  engineering student, University of Ghana, Accra</text>
+<text x="36" y="104" class="o l" style="animation-delay:0.9s" ><tspan class="b">Ethan Nartey</tspan>  third-year Computer Engineering, University of Ghana</text>
 <text x="36" y="142" class="c l" style="animation-delay:1.2s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>cat focus.txt</text>
 <text x="36" y="168" class="o l" style="animation-delay:1.8s" >software engineering  /  ML engineering  /  AI engineering  /  data science</text>
 <text x="36" y="206" class="c l" style="animation-delay:2.1s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>cat side_hustle.txt</text>

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" width="100%" alt="ethan@ug terminal. whoami: Ethan Nartey, engineering student, University of Ghana. Focus: software, ML and AI engineering, data science. Side hustle: quant research and the markets. Roles: VP NSBE UG Chapter, Team Lead UGASS Data Science Club.">
+  <img src="assets/terminal-light.svg" width="100%" alt="ethan@ug terminal. whoami: Ethan Nartey, third-year Computer Engineering student, University of Ghana. Focus: software, ML and AI engineering, data science. Side hustle: quant research and the markets. Roles: VP NSBE UG Chapter, Team Lead UGASS Data Science Club.">
 </picture>
 
 <picture>
@@ -14,7 +14,7 @@
   <a href="https://github.com/enartey25?tab=repositories"><img src="https://img.shields.io/badge/github-enartey25-0b0e14?style=flat-square&labelColor=ffb000&logo=github&logoColor=0b0e14"/></a>
 </p>
 
-I build software and the models behind it. I'm an engineering student at the University of Ghana working toward a career in software, ML or AI engineering, or data science. Quant research is the side hustle: I read the markets every day and backtest ideas when they won't leave me alone. I also take networks apart now and then.
+I build software and the models behind it. I'm an third-year Computer Engineering student at the University of Ghana working toward a career in software, ML or AI engineering, or data science. Quant research is the side hustle: I read the markets every day and backtest ideas when they won't leave me alone. I also take networks apart now and then.
 
 ## `$ ls ~/live`
 
@@ -49,6 +49,11 @@ vision        Haar Face Detector .... real-time OpenCV webcam detection, tunable
 
 - **Vice President**, National Society of Black Engineers, University of Ghana Chapter
 - **Team Lead, Data Science Club**, UG Actuarial and Statistics Society (UGASS)
+- **Founder, Olympiad Club** (high school): trained students for the International Mathematical Olympiad (IMO) and the International Science and Engineering Fair (ISEF)
+
+## `$ cat achievements.txt`
+
+- **National Finalist**, International Science and Engineering Fair (ISEF), 2024
 
 ## `$ which stack`
 
