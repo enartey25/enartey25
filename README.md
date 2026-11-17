@@ -1,86 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0072ff,100:7b2ff7&height=260&section=header&text=Ethan%20Nartey&fontSize=72&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=Software%20%7C%20ML%20%7C%20AI%20Engineering&descAlignY=62&descSize=22" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img src="assets/terminal-light.svg" width="100%" alt="ethan@ug terminal. whoami: Ethan Nartey, engineering student, University of Ghana. Focus: software, ML and AI engineering, data science. Side hustle: quant research and the markets. Roles: VP NSBE UG Chapter, Team Lead UGASS Data Science Club.">
+</picture>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Engineering+student+%40+University+of+Ghana;Building+AI+systems+that+ship;Classical+ML+%E2%86%92+modern+deep+learning;VP+%40+NSBE-UG+%E2%80%A2+UGASS+Data+Science+Lead;Watching+the+markets;Poking+at+networks+on+the+side" alt="Typing SVG"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg">
+  <img src="assets/ticker-light.svg" width="100%" alt="Project ticker: SES-GPT live, WatchTower live, Hunu building, TRACiE, EPL meta-model, HSI ETL, spam detection, ANN vs CNN">
+</picture>
+
+<p>
+  <a href="https://enartey.vercel.app"><img src="https://img.shields.io/badge/portfolio-enartey.vercel.app-0b0e14?style=flat-square&labelColor=ffb000&logo=vercel&logoColor=0b0e14"/></a>
+  <a href="https://www.linkedin.com/in/ethan-nartey-4a0356332"><img src="https://img.shields.io/badge/linkedin-ethan--nartey-0b0e14?style=flat-square&labelColor=ffb000&logo=linkedin&logoColor=0b0e14"/></a>
+  <a href="https://github.com/enartey25?tab=repositories"><img src="https://img.shields.io/badge/github-enartey25-0b0e14?style=flat-square&labelColor=ffb000&logo=github&logoColor=0b0e14"/></a>
 </p>
 
-<p align="center">
-  <a href="https://enartey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-enartey.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ethan-nartey-4a0356332"><img src="https://img.shields.io/badge/LinkedIn-Ethan%20Nartey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=enartey25&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
-</p>
+I build software and the models behind it. I'm an engineering student at the University of Ghana working toward a career in software, ML or AI engineering, or data science. Quant research is the side hustle: I read the markets every day and backtest ideas when they won't leave me alone. I also take networks apart now and then.
 
----
+## `$ ls ~/live`
 
-### About me
+| Project | What it does | Run it |
+|---|---|---|
+| **[SES-GPT](https://github.com/enartey25/SES-GPT)** | RAG pipeline that answers questions from school and department chats | [ses-gpt.vercel.app](https://ses-gpt.vercel.app) |
+| **[WatchTower](https://github.com/enartey25/WatchTower)** | Movie recommender built on TF-IDF and weighted search | [watch-tower-ashy.vercel.app](https://watch-tower-ashy.vercel.app) |
 
-I'm Ethan, an engineering student at the **University of Ghana** in Accra . I build software and the models behind it, and I'm aiming for a career in **software, ML, or AI engineering, or data science**.
+## `$ git log --projects`
 
-- **AI and LLM apps**: agents, retrieval, and tools that put models into real products
-- **Software engineering**: APIs, browser extensions, web apps, built end to end
-- **Classical ML and data science**: feature engineering, gradient boosting, and models you can explain
-- **Quant (side hustle)**: I follow the markets closely and run backtests and time-series experiments
-- **Networking (on the side)**: packets, protocols, and home-lab tinkering
+```text
+ai/llm        TRACiE ................ assistant for exploring team codebases
+software      Hunu .................. extension + site + API ranking prices across Jumia, Jiji, AliExpress, Amazon
+ml/quant      EPL Meta-Model ........ stacked XGBoost + Random Forest, calibrated Poisson goal forecasts
+data-eng      HSI ETL Pipeline ...... Hang Seng Index daily history into a warehouse
+classical-ml  Spam Detection ........ TF-IDF across Naive Bayes, LogReg, SVM; scored on F1 and ROC-AUC
+deep-learning ANN vs CNN ............ digit classification head-to-head in TensorFlow/Keras
+data-science  Customer Segments ..... K-Means segments with marketing recommendations
+vision        Haar Face Detector .... real-time OpenCV webcam detection, tunable live
+```
 
-### Leadership
+[TRACiE](https://github.com/enartey25/TRACiE) ·
+[Hunu](https://github.com/enartey25/Hunu) ·
+[EPL Meta-Model](https://github.com/enartey25/EPL-Meta-Model-and-Poisson-Goal-Model-System) ·
+[HSI ETL](https://github.com/enartey25/HSI-ETL-Pipeline) ·
+[Spam Detection](https://github.com/enartey25/Spam-Email-Detection) ·
+[ANN vs CNN](https://github.com/enartey25/ANN-vs-CNN) ·
+[Customer Segments](https://github.com/enartey25/Customer-Segmentation-Notebook) ·
+[Haar Face Detector](https://github.com/enartey25/Interactive-Haar-Cascade-Frontal-Face-Detector)
 
-- **Vice President**, National Society of Black Engineers (NSBE), University of Ghana Chapter
+## `$ cat roles.txt`
+
+- **Vice President**, National Society of Black Engineers, University of Ghana Chapter
 - **Team Lead, Data Science Club**, UG Actuarial and Statistics Society (UGASS)
 
-### Currently building
+## `$ which stack`
 
-**[Hunu](https://github.com/enartey25/Hunu)**: compare the price in front of you, instantly
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,fastapi,postgres,docker,pytorch,tensorflow,sklearn,linux,git,vercel&theme=dark&perline=14" />
 
-### Live projects
+## `$ git stats`
 
-| Project | What it does | Links |
-|---|---|---|
-| **SES-GPT** | RAG pipeline that answers questions from school and department chats | [**Live demo**](https://ses-gpt.vercel.app) · [Code](https://github.com/enartey25/SES-GPT) |
-| **WatchTower** | Movie recommender built on TF-IDF and weighted search | [**Live demo**](https://watch-tower-ashy.vercel.app) · [Code](https://github.com/enartey25/WatchTower) |
-
-### Featured work
-
-| Area | Project | Highlights |
-|---|---|---|
-| AI / LLM | [TRACiE](https://github.com/enartey25/TRACiE) | Team repository assistant for exploring codebases |
-| Software | [Hunu](https://github.com/enartey25/Hunu) | Browser extension, website and API that compare prices across Jumia, Jiji, AliExpress, Amazon and nearby shops |
-| ML / Quant | [EPL Meta-Model & Poisson Goal System](https://github.com/enartey25/EPL-Meta-Model-and-Poisson-Goal-Model-System) | Stacked XGBoost and Random Forest ensemble with calibrated Poisson goal forecasts |
-| Data engineering | [HSI ETL Pipeline](https://github.com/enartey25/HSI-ETL-Pipeline) | ETL of historical Hang Seng Index daily data into a warehouse |
-| Classical ML | [Spam Email Detection](https://github.com/enartey25/Spam-Email-Detection) | TF-IDF features compared across Naive Bayes, Logistic Regression and SVM, scored on F1 and ROC-AUC |
-| Deep learning | [ANN vs CNN](https://github.com/enartey25/ANN-vs-CNN) | Compares an ANN and a CNN on digit classification with TensorFlow/Keras |
-| Data science | [Customer Segmentation](https://github.com/enartey25/Customer-Segmentation-Notebook) | K-Means customer segments with marketing recommendations |
-| Computer vision | [Haar Cascade Face Detector](https://github.com/enartey25/Interactive-Haar-Cascade-Frontal-Face-Detector) | Real-time OpenCV webcam face detection you can tune live |
-
-<p align="center"><a href="https://github.com/enartey25?tab=repositories"><b>See all repositories</b></a></p>
-
-### Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,react,fastapi,postgres,docker,git,linux&perline=12" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,gcp,vercel,bash,vscode,github&perline=12" />
-</p>
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enartey25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enartey25&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=enartey25&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enartey25&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
-### Ask me about
-
-`machine learning` · `LLM agents` · `data science` · `markets and backtesting` · `building browser extensions` · `TCP/IP`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=enartey25&show_icons=true&hide_border=true&count_private=true&bg_color=0b0e14&title_color=ffb000&text_color=d6dbe3&icon_color=3fb950" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enartey25&layout=compact&hide_border=true&bg_color=0b0e14&title_color=ffb000&text_color=d6dbe3" />

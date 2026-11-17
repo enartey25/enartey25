@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="368" viewBox="0 0 900 368" role="img" aria-label="Ethan Nartey. Engineering student at the University of Ghana. Focus: software, ML and AI engineering, data science. Side: quant research and markets. VP NSBE UG Chapter, Team Lead UGASS Data Science Club.">
+<style>text{font-size:15px;fill:#d6dbe3} .p{fill:#3fb950} .d{fill:#8b949e} .o{fill:#8b949e} .b{fill:#d6dbe3;font-weight:700} .a{fill:#ffb000;font-weight:700} .t{fill:#8b949e;font-size:12px}.l{animation:in .01s steps(1) backwards} .k{animation:blink 1.1s steps(1) infinite} @keyframes in{from{opacity:0}to{opacity:1}} @keyframes blink{50%{opacity:0}}</style>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+<rect x="0.5" y="0.5" width="899" height="367" rx="10" fill="#0b0e14" stroke="#232a36"/>
+<path d="M0.5 40 V10.5 a10 10 0 0 1 10 -10 H889.5 a10 10 0 0 1 10 10 V40 Z" fill="#141821"/>
+<line x1="0.5" y1="40" x2="899.5" y2="40" stroke="#232a36"/>
+<circle cx="24" cy="20" r="6" fill="#f85149"/><circle cx="44" cy="20" r="6" fill="#ffb000"/><circle cx="64" cy="20" r="6" fill="#3fb950"/>
+<text x="450" y="25" text-anchor="middle" class="t">ethan@ug: ~  (zsh)</text>
+<text x="36" y="78" class="c l" style="animation-delay:0.3s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>whoami</text>
+<text x="36" y="104" class="o l" style="animation-delay:0.9s" ><tspan class="b">Ethan Nartey</tspan>  engineering student, University of Ghana, Accra</text>
+<text x="36" y="142" class="c l" style="animation-delay:1.2s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>cat focus.txt</text>
+<text x="36" y="168" class="o l" style="animation-delay:1.8s" >software engineering  /  ML engineering  /  AI engineering  /  data science</text>
+<text x="36" y="206" class="c l" style="animation-delay:2.1s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>cat side_hustle.txt</text>
+<text x="36" y="232" class="o l" style="animation-delay:2.7s" >quant research, reading the markets daily, the occasional packet capture</text>
+<text x="36" y="270" class="c l" style="animation-delay:3.0s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan>roles --current</text>
+<text x="36" y="296" class="o l" style="animation-delay:3.6s" ><tspan class="a">VP</tspan> NSBE, UG Chapter  <tspan class="d">/</tspan>  <tspan class="a">LEAD</tspan> UGASS Data Science Club</text>
+<text x="36" y="334" class="c l" style="animation-delay:3.9s" ><tspan class="p">ethan@ug</tspan><tspan class="d">:~$ </tspan></text>
+<rect x="137" y="319" width="10" height="19" fill="#ffb000" class="k" style="animation-delay:3.9s"/>
+</g></svg>
