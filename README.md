@@ -61,5 +61,6 @@ vision        Haar Face Detector .... real-time OpenCV webcam detection, tunable
 
 ## `$ git stats`
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=enartey25&show_icons=true&hide_border=true&count_private=true&bg_color=0b0e14&title_color=ffb000&text_color=d6dbe3&icon_color=3fb950" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enartey25&layout=compact&hide_border=true&bg_color=0b0e14&title_color=ffb000&text_color=d6dbe3" />
+<img width="100%" src="https://streak-stats.demolab.com?user=enartey25&hide_border=true&background=0B0E14&stroke=232A36&ring=FFB000&fire=FFB000&currStreakNum=FFB000&currStreakLabel=FFB000&sideNums=D6DBE3&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enartey25&hide_border=true&bg_color=0B0E14&color=8B949E&title_color=FFB000&line=FFB000&point=D6DBE3&area=true&area_color=FFB000&custom_title=contributions%20(last%2031%20days)" alt="GitHub contribution activity graph" />
