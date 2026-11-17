@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ethan%20Nartey&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0072ff,100:7b2ff7&height=260&section=header&text=Ethan%20Nartey&fontSize=72&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=Software%20%7C%20ML%20%7C%20AI%20Engineering&descAlignY=62&descSize=22" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://gh.linkedin.com/in/ethan-nartey-4a0356332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://enartey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-enartey.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ethan-nartey-4a0356332"><img src="https://img.shields.io/badge/LinkedIn-Ethan%20Nartey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=enartey25&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 </p>
 
@@ -82,4 +83,4 @@ I'm Ethan, an engineering student at the **University of Ghana** in Accra . I bu
 
 `machine learning` · `LLM agents` · `data science` · `markets and backtesting` · `building browser extensions` · `TCP/IP`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>
