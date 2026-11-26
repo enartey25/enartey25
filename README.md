@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg">
-  <img src="assets/ticker-light.svg" width="100%" alt="Project ticker: SES-GPT live, WatchTower live, Hunu building, TRACiE, EPL meta-model, HSI ETL, spam detection, ANN vs CNN">
+  <img src="assets/ticker-light.svg" width="100%" alt="Project ticker: SES-GPT live, Cinephilia live, Hunu building, TRACiE, EPL meta-model, HSI ETL, spam detection, ANN vs CNN">
 </picture>
 
 <p>
@@ -21,7 +21,7 @@ I build software and the models behind it. I'm an third-year Computer Engineerin
 | Project | What it does | Run it |
 |---|---|---|
 | **[SES-GPT](https://github.com/enartey25/SES-GPT)** | RAG pipeline that answers questions from school and department chats | [ses-gpt.vercel.app](https://ses-gpt.vercel.app) |
-| **[WatchTower](https://github.com/enartey25/WatchTower)** | Movie recommender built on TF-IDF and weighted search | [watch-tower-ashy.vercel.app](https://watch-tower-ashy.vercel.app) |
+| **[Cinephilia](https://github.com/enartey25/Cinephilia)** | Movie recommender: hybrid embedding search on pgvector, synced nightly from TMDB | [watch-tower-ashy.vercel.app](https://watch-tower-ashy.vercel.app) |
 
 ## `$ git log --projects`
 
